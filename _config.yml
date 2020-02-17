@@ -2,7 +2,7 @@ title:              Ryan's Blog
 email:              rtmurase@gmail.com
 description:        A blog about my life
 author:             Ryan
-baseurl:            "http://www.saucy.life"
+baseurl:            ""
 url:                "http://rtmurase.github.io/saucylife"
 
 # Social Profiles
