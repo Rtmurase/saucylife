@@ -2,8 +2,8 @@ title:              Ryan's Blog
 email:              rtmurase@gmail.com
 description:        A blog about my life
 author:             Ryan
-baseurl:            "/saucylife"
-url:                "https://saucylife.github.io"
+baseurl:            "http://www.saucy.life"
+url:                "http://rtmurase.github.io/saucylife"
 
 # Social Profiles
 twitter_username:   SBootstrap

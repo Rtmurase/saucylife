@@ -12,7 +12,7 @@
     
   </title>
 
-  <meta name="description" content="Headers ======= ___ [arbitrary case-insensitive reference text]: https://www.mozilla.org [1]: http://slashdot.org [link text itself]: http://www.reddit.com [...">
+  <meta name="description" content="Headers">
 
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
@@ -88,126 +88,117 @@
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
 
-        Headers
-=======
-___
+        <h1 id="headers">Headers</h1>
+<hr />
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+<h1 id="h1">H1</h1>
+<h2 id="h2">H2</h2>
+<h3 id="h3">H3</h3>
+<h4 id="h4">H4</h4>
+<h5 id="h5">H5</h5>
+<h6 id="h6">H6</h6>
 
-Alternatively, for H1 and H2, an underline-ish style:
+<p>Alternatively, for H1 and H2, an underline-ish style:</p>
 
-Alt-H1
-======
+<h1 id="alt-h1">Alt-H1</h1>
 
-Alt-H2
-------
+<h2 id="alt-h2">Alt-H2</h2>
 
-Emphasis
-========
-___
+<h1 id="emphasis">Emphasis</h1>
+<hr />
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+<p>Emphasis, aka italics, with <em>asterisks</em> or <em>underscores</em>.</p>
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+<p>Strong emphasis, aka bold, with <strong>asterisks</strong> or <strong>underscores</strong>.</p>
 
-Combined emphasis with **asterisks and _underscores_**.
+<p>Combined emphasis with <strong>asterisks and <em>underscores</em></strong>.</p>
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+<p>Strikethrough uses two tildes. <del>Scratch this.</del></p>
 
-Lists
-=====
-___
+<h1 id="lists">Lists</h1>
+<hr />
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+<ol>
+  <li>First ordered list item</li>
+  <li>Another item
+⋅⋅* Unordered sub-list.</li>
+  <li>Actual numbers don’t matter, just that it’s a number
+⋅⋅1. Ordered sub-list</li>
+  <li>And another item.</li>
+</ol>
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+<p>⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we’ll use three here to also align the raw Markdown).</p>
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+<p>⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)</p>
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+<ul>
+  <li>Unordered list can use asterisks</li>
+  <li>Or minuses</li>
+  <li>Or pluses</li>
+</ul>
 
-Links
-=====
-___
-[I'm an inline-style link](https://www.google.com)
+<h1 id="links">Links</h1>
+<hr />
+<p><a href="https://www.google.com">I’m an inline-style link</a></p>
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+<p><a href="https://www.google.com" title="Google's Homepage">I’m an inline-style link with title</a></p>
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+<p><a href="https://www.mozilla.org">I’m a reference-style link</a></p>
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+<p><a href="../blob/master/LICENSE">I’m a relative reference to a repository file</a></p>
 
-[You can use numbers for reference-style link definitions][1]
+<p><a href="http://slashdot.org">You can use numbers for reference-style link definitions</a></p>
 
-Or leave it empty and use the [link text itself].
+<p>Or leave it empty and use the <a href="http://www.reddit.com">link text itself</a>.</p>
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+<p>URLs and URLs in angle brackets will automatically get turned into links. 
+http://www.example.com or <a href="http://www.example.com">http://www.example.com</a> and sometimes 
+example.com (but not on Github, for example).</p>
 
-Some text to show that the reference links can follow later.
+<p>Some text to show that the reference links can follow later.</p>
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+<h1 id="images">Images</h1>
+<hr />
+<p>Here’s our logo (hover to see the title text):</p>
 
+<p>Inline-style: 
+<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 1" /></p>
 
-Images
-======
-___
-Here's our logo (hover to see the title text):
+<p>Reference-style: 
+<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 2" /></p>
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+<h1 id="blockquotes">Blockquotes</h1>
+<hr />
+<blockquote>
+  <p>Blockquotes are very handy in email to emulate reply text.
+This line is part of the same quote.</p>
+</blockquote>
 
-Reference-style: 
-![alt text][logo]
+<p>Quote break.</p>
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+<blockquote>
+  <p>This is a very long line that will still be quoted properly when it wraps. Oh boy let’s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can <em>put</em> <strong>Markdown</strong> into a blockquote.</p>
+</blockquote>
 
+<h1 id="horizontal-rule">Horizontal Rule</h1>
+<hr />
+<p>Three or more…</p>
 
-Blockquotes
-===
-___
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
+<hr />
 
-Quote break.
+<p>Hyphens</p>
 
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+<hr />
 
-Horizontal Rule
-===
-___
-Three or more...
+<p>Asterisks</p>
 
----
+<hr />
 
-Hyphens
+<p>Underscores</p>
 
-***
-
-Asterisks
-
-___
-
-Underscores
-
-## And thats it :)
+<h2 id="and-thats-it-">And thats it :)</h2>
 
 
         <hr>
