@@ -1,80 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-16T17:23:41-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ryan’s Blog</title><subtitle>A blog about my life</subtitle><author><name>Ryan</name></author><entry><title type="html">Living in San Francisco</title><link href="http://localhost:4000/2020/02/11/man-must-explore.html" rel="alternate" type="text/html" title="Living in San Francisco" /><published>2020-02-11T06:45:13-08:00</published><updated>2020-02-11T06:45:13-08:00</updated><id>http://localhost:4000/2020/02/11/man-must-explore</id><content type="html" xml:base="http://localhost:4000/2020/02/11/man-must-explore.html">&lt;p&gt;This is a first for me. Living in a densly populated area, not having a car, walking to work... And 4 weeks in, it's definitely my favorite living experience yet.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-17T19:02:18-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ryan’s Blog</title><subtitle>A blog about my life</subtitle><author><name>Ryan</name></author><entry><title type="html">San Francisco</title><link href="http://localhost:4000/2020/02/17/sf.html" rel="alternate" type="text/html" title="San Francisco" /><published>2020-02-17T06:45:13-08:00</published><updated>2020-02-17T06:45:13-08:00</updated><id>http://localhost:4000/2020/02/17/sf</id><content type="html" xml:base="http://localhost:4000/2020/02/17/sf.html">&lt;h2 id=&quot;where&quot;&gt;Where&lt;/h2&gt;
+&lt;p&gt;Soma district in a small apartment off of 6th and Natoma st&lt;/p&gt;
+&lt;h2 id=&quot;when&quot;&gt;When&lt;/h2&gt;
+&lt;p&gt;Jan 20th - Apr 6th 2020&lt;/p&gt;
+&lt;h2 id=&quot;why&quot;&gt;Why&lt;/h2&gt;
+&lt;p&gt;Internship at Front&lt;/p&gt;
+&lt;h2 id=&quot;who&quot;&gt;Who&lt;/h2&gt;
+&lt;p&gt;Me, Kaiser, Rishi, Deen&lt;/p&gt;
 
-&lt;p&gt;I'm currently livintg in small apartment off of 6th and Naotma. 6th Street is definitely a sketchy street. The kind that people tend to avoid when the suns down. My room is about the size of closet, but it's homey&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;the-things-i-did-to-survive&quot;&gt;The Things I did to survive&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;I washed dishes with hand soap and a spare toothbrush.&lt;/li&gt;
+  &lt;li&gt;I used my boxers as bath mats when getting out of the shower.&lt;/li&gt;
+  &lt;li&gt;Borrowed some utensils and plates from work.&lt;/li&gt;
+  &lt;li&gt;Took toilet paper from a hotel.&lt;/li&gt;
+  &lt;li&gt;Borrowed some towels from the local YMCA.&lt;/li&gt;
+  &lt;li&gt;Took my switch to work to download the latest Smash Ultimate update&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;I have several modes of transportation. The first is my skateboard&lt;/p&gt;
+&lt;h2 id=&quot;things-i-wish&quot;&gt;Things I wish…&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;I wish my room was bigger than a closet.&lt;/li&gt;
+  &lt;li&gt;I wish cracked out homeless men didn’t yell at me when I’m just trying to go home.&lt;/li&gt;
+  &lt;li&gt;I wish I didn’t see a naked man yelling outside our door as he struggled to  put his pants on.&lt;/li&gt;
+  &lt;li&gt;I wish I didn’t have to see poop on my way to work.&lt;/li&gt;
+  &lt;li&gt;I wish I didn’t have to look sad, miserable, and poor to avoid drawing attention from the homeless.&lt;/li&gt;
+  &lt;li&gt;I wish I had wifi.&lt;/li&gt;
+  &lt;li&gt;I wish I didn’t run out of data.&lt;/li&gt;
+  &lt;li&gt;I wish Rishi brought something useful for me. He had options between a trash can, floor mat, and utensils. But he decided to bring a scale (Or a “weighing machine” as he called it).&lt;/li&gt;
+&lt;/ul&gt;
 
+&lt;h2 id=&quot;things-i-love&quot;&gt;Things I love…&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;I love that I get to live in the city in an apartment that’s walking distance to my office.&lt;/li&gt;
+  &lt;li&gt;I love that I get to live with my friends and I love these friends are people that I look up to.&lt;/li&gt;
+  &lt;li&gt;I love the the homey, cozy feeling of my room.&lt;/li&gt;
+  &lt;li&gt;I love that the apartment is clean (or was clean until Kaiser moved in)&lt;/li&gt;
+  &lt;li&gt;I love that Rishi and Kaiser found an apartment early so I had a place to live in the city. (Kaiser moved in 2/15. Rishi moved in 3/1).&lt;/li&gt;
+  &lt;li&gt;I love my routine with Kaiser of getting dinner at Coinbase  and working out at the Embarcadaro YMCA.&lt;/li&gt;
+  &lt;li&gt;I love not needing a car.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+&lt;h2 id=&quot;highlights&quot;&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;To be continutued…&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
-
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
-
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
-
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;blockquote class=&quot;blockquote&quot;&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
-
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
-
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
-
-&lt;img class=&quot;img-fluid&quot; src=&quot;https://source.unsplash.com/Mn9Fa_wQH-M/800x450&quot; alt=&quot;Demo Image&quot;&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;
-
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
-
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
-
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ryan</name></author><summary type="html">This is a first for me. Living in a densly populated area, not having a car, walking to work... And 4 weeks in, it's definitely my favorite living experience yet.</summary></entry><entry><title type="html">Living in San Francisco</title><link href="http://localhost:4000/2020/02/11/heartbeats.html" rel="alternate" type="text/html" title="Living in San Francisco" /><published>2020-02-11T06:45:13-08:00</published><updated>2020-02-11T06:45:13-08:00</updated><id>http://localhost:4000/2020/02/11/heartbeats</id><content type="html" xml:base="http://localhost:4000/2020/02/11/heartbeats.html">&lt;p&gt;This is a first for me. Living in a densly populated area, not having a car, walking to work... And 4 weeks in, it's definitely my favorite living experience yet.&lt;/p&gt;
-
-&lt;p&gt;I'm currently livintg in small apartment off of 6th and Naotma. 6th Street is definitely a sketchy street. The kind that people tend to avoid when the suns down. My room is about the size of closet, but it's homey&lt;/p&gt;
-
-&lt;p&gt;I have several modes of transportation. The first is my skateboard&lt;/p&gt;
-
-
-&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
-
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
-
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
-
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
-
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;blockquote class=&quot;blockquote&quot;&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
-
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
-
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
-
-&lt;img class=&quot;img-fluid&quot; src=&quot;https://source.unsplash.com/Mn9Fa_wQH-M/800x450&quot; alt=&quot;Demo Image&quot;&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;
-
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
-
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
-
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ryan</name></author><summary type="html">This is a first for me. Living in a densly populated area, not having a car, walking to work... And 4 weeks in, it's definitely my favorite living experience yet.</summary></entry><entry><title type="html">Testing Markdown</title><link href="http://localhost:4000/2020/02/11/markdown-test.html" rel="alternate" type="text/html" title="Testing Markdown" /><published>2020-02-11T01:51:00-08:00</published><updated>2020-02-11T01:51:00-08:00</updated><id>http://localhost:4000/2020/02/11/markdown-test</id><content type="html" xml:base="http://localhost:4000/2020/02/11/markdown-test.html">&lt;h1 id=&quot;headers&quot;&gt;Headers&lt;/h1&gt;
+&lt;h2 id=&quot;lowlights&quot;&gt;Lowlights&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;To be continutued…&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Ryan</name></author><summary type="html">Where Soma district in a small apartment off of 6th and Natoma st When Jan 20th - Apr 6th 2020 Why Internship at Front Who Me, Kaiser, Rishi, Deen</summary></entry><entry><title type="html">Testing Markdown</title><link href="http://localhost:4000/2020/02/11/markdown-test.html" rel="alternate" type="text/html" title="Testing Markdown" /><published>2020-02-11T01:51:00-08:00</published><updated>2020-02-11T01:51:00-08:00</updated><id>http://localhost:4000/2020/02/11/markdown-test</id><content type="html" xml:base="http://localhost:4000/2020/02/11/markdown-test.html">&lt;h1 id=&quot;headers&quot;&gt;Headers&lt;/h1&gt;
 &lt;hr /&gt;
 
 &lt;h1 id=&quot;h1&quot;&gt;H1&lt;/h1&gt;
@@ -339,4 +314,78 @@ This line is part of the same quote.&lt;/p&gt;
 
 &lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
 
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ryan</name></author><summary type="html">Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</summary></entry></feed>
+&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ryan</name></author><summary type="html">Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</summary></entry><entry><title type="html">Slowly becoming a libtard, feminist, vegan</title><link href="http://localhost:4000/2010/02/15/vegan.html" rel="alternate" type="text/html" title="Slowly becoming a libtard, feminist, vegan" /><published>2010-02-15T20:00:00-08:00</published><updated>2010-02-15T20:00:00-08:00</updated><id>http://localhost:4000/2010/02/15/vegan</id><content type="html" xml:base="http://localhost:4000/2010/02/15/vegan.html">&lt;p&gt;All my life I grew up not really carrying about the environment nor the community. The only things I cared about was me, my family, and friends. In that order. Of course I didn't litter, or leave the water running or anthing unreasonable. But I also felt no sympathy for the homeless, animals, nature, or developing nations.&lt;/p&gt;
+
+&lt;p&gt;But I'm slowly getting better. I think it all started with Phil 27, an ethics class that I was required to take. Most notably, Peter Singer's essay, &quot;Famine Affluence, and Morality.&quot; 
+
+&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+
+&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+
+&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+
+&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+
+&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;blockquote class=&quot;blockquote&quot;&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+
+&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+
+&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+
+&lt;img class=&quot;img-fluid&quot; src=&quot;https://source.unsplash.com/Mn9Fa_wQH-M/800x450&quot; alt=&quot;Demo Image&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;
+
+&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
+
+&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
+
+&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;</content><author><name>Ryan</name></author><summary type="html">All my life I grew up not really carrying about the environment nor the community. The only things I cared about was me, my family, and friends. In that order. Of course I didn't litter, or leave the water running or anthing unreasonable. But I also felt no sympathy for the homeless, animals, nature, or developing nations.</summary></entry><entry><title type="html">San Francisco</title><link href="http://localhost:4000/2010/02/11/man-must-explore.html" rel="alternate" type="text/html" title="San Francisco" /><published>2010-02-11T06:45:13-08:00</published><updated>2010-02-11T06:45:13-08:00</updated><id>http://localhost:4000/2010/02/11/man-must-explore</id><content type="html" xml:base="http://localhost:4000/2010/02/11/man-must-explore.html">&lt;p&gt;This is a first for me. Living in a densly populated area, not having a car, walking to work... And 4 weeks in, it's definitely my favorite living experience yet.&lt;/p&gt;
+
+&lt;p&gt;I'm currently livintg in small apartment off of 6th and Naotma. 6th Street is definitely a sketchy. The kind that people tend to avoid when the suns down. My room is about the size of closet, but it's homey&lt;/p&gt;
+
+&lt;p&gt;I have several modes of transportation. The first is my skateboard&lt;/p&gt;
+
+
+&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+
+&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+
+&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+
+&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+
+&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;blockquote class=&quot;blockquote&quot;&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+
+&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+
+&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+
+&lt;img class=&quot;img-fluid&quot; src=&quot;https://source.unsplash.com/Mn9Fa_wQH-M/800x450&quot; alt=&quot;Demo Image&quot;&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;
+
+&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
+
+&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
+
+&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ryan</name></author><summary type="html">This is a first for me. Living in a densly populated area, not having a car, walking to work... And 4 weeks in, it's definitely my favorite living experience yet.</summary></entry></feed>
